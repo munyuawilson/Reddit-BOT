@@ -39,7 +39,7 @@ class RedditBOT:
 
 if __name__=="__main__":
     #example
-    saas=RedditBOT("Nimebarikiwa1$","CF7KZFgAwMQFXUviBDqCcaxFtrbkDg")
+    saas=RedditBOT("hdhhhdwa1$","hF7KZFgAwMQFXUviBDqCcaxFtrbkDg")
     saas.get_sub_reddit("saas","huge")
 
 
